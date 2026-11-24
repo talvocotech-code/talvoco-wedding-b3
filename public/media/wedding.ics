@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Talvoco//Annabelle Zachary Wedding//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:annabelle-zachary-wedding-20270220@talvoco
+DTSTAMP:20261121T000000Z
+DTSTART:20270220T120000Z
+DTEND:20270220T180000Z
+SUMMARY:Annabelle & Zachary — Wedding Ceremony
+LOCATION:The Walled Garden at Elmstead Court\, Canterbury\, Kent
+DESCRIPTION:Wedding ceremony at 12:00 pm (UK time).\nWedding breakfast at 1:30 pm.
+END:VEVENT
+END:VCALENDAR
