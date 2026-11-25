@@ -24,8 +24,8 @@ window.INVITATION_CONFIG = {
     "paleGold": "#e7d7ae"
   },
   "media": {
-    "introVideo": "./media/ribbon-doves-intro-v3-fast.mp4",
-    "introPoster": "./assets/images/ribbon-poster-v2.jpg",
+    "introVideo": "./media/curtain-intro.mp4",
+    "introPoster": "./assets/images/curtain-poster.jpg",
     "heroPoster": "./assets/images/church-couple.webp",
     "monogram": "./assets/images/gold-az-monogram-custom.png",
     "ogImage": "https://talvoco-wedding-b3.vercel.app/assets/images/wedding-invite.jpg",
@@ -44,7 +44,7 @@ window.INVITATION_CONFIG = {
     "musicVolume": 0.3,
     "transitionMs": 300,
     "playbackTimeoutMs": 12000,
-    "heroTextDelayMs": 4500,
+    "heroTextDelayMs": 4900,
     "chromeDelayMs": 2400
   },
   "hero": {
